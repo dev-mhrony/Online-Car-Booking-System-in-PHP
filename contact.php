@@ -84,16 +84,16 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
              <div class="col-lg-4 mb-4">
                  <h3>Contact Details</h3>
                  <p>
-                     90125
-                     <br>402 Webster Street
+                     Bogura,
+                     <br>Bogura,Bangladesh.
                      <br>
                  </p>
                  <p>
-                     <abbr title="Phone">P</abbr>: (000) 011-1100
+                     <abbr title="Phone">Phone</abbr>: +8801608445456
                  </p>
                  <p>
                      <abbr title="Email">E</abbr>:
-                     <a href="mailto:mail@tms.com">mail@transportmsphp.com
+                     <a href="mailto:support@developerrony.com">support@developerrony.com
                      </a>
                  </p>
                  <p>
