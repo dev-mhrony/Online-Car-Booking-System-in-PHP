@@ -1,12 +1,10 @@
 # Online Car Booking System in PHP
 
-## Online Car Booking System by Code Camp BD
-
-## About Online Booking System PHP Project
+### About Online Booking System PHP Project
 
 In particular, this Online Car Booking System Project in PHP focuses mainly on managing Online Cars and online Online Car reservations. To be more precise, the system helps to keep track of Online Car and their reservation details. Also, the system displays all the available drivers and Online Cars. In addition, the system allows adding up customers too(codeastro.com). Evidently, this project contains an admin panel with a user panel. In an overview of this web application, a user can be both driver and a customer. The customers can register themselves in order to use the system, whereas drivers are added manually by the administrator. Additionally, the user can view all available Online Cars for hire. There, the users can book Online Car and confirm their booking information. Also, the users can cancel and view their booking records. Besides, the users can send feedback to the system administrator.
 
-## Available Features:
+### Available Features:
 
 <li> Client Side
 <li>Admin Panel
@@ -20,7 +18,7 @@ In particular, this Online Car Booking System Project in PHP focuses mainly on m
 <li>Feedback Management
 <li>Search Records
 
-## Instructions: How to Run?
+### Instructions: How to Run?
 
 After you finish downloading the project, unzip the project file and head over to your XAMPP/Laragon directory. <br/> There you’ll find a folder named “htdocs”. <br/> Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one). <br/> Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox. <br/> Then, go to the URL “http://localhost/phpmyadmin“. <br/> Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”. <br/> Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”. <br/> After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“ <br/> All the login details are provided inside the project folder, check that out and enter them in order to use it. <br/>
 
