@@ -1,0 +1,23 @@
+**Subscribe to Code Camp BD Youtube Channel for more projects!***
+
+**Database Name: OnlineCarBooking**
+
+**Developed by MH RONY**
+
+** Youtube Channel Link: https://www.youtube.com/@codecampbdofficial **
+
+**Github Link: https://github.com/dev-mhrony **
+
+**Recommended PHP Version 7.2 + **
+
+
+**Admin Login Details**
+
+Email	: admin@gmail.com
+Password: Watch This Youtube Video 
+
+
+**Clint Login info**
+
+Email    : clint@gmail.com
+Password : Watch This Youtube Video 
