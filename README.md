@@ -34,11 +34,13 @@ And there you have it, a full setup of Employee Task Management System in PHP My
 
 ### Admin Login Info Details
 
-Email : admin@gmail.com <br/> Password: Watch This Youtube <a href = "https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank"> Video </a> <br/> Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
+Email : admin@gmail.com <br/> Password: Watch This Youtube <a href = "https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank"> Video </a> 
+
+<br/> Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
 
 ### Clint Login Details
 
-Email : clint@gmail.com <br/> Password : Watch This Youtube <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a>
+Email : clint@gmail.com <br/> Password : Watch This Youtube <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Video</a> <br/>
 
 Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
 
