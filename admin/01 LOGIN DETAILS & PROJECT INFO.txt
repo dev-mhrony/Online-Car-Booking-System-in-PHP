@@ -10,7 +10,6 @@
 
 **Recommended PHP Version 7.2 + **
 
-
 **Admin Login Details**
 
 Email	: admin@gmail.com
